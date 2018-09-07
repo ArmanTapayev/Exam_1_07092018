@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<positions>
+  <position>
+    <positionid id="1">1</positionid>
+    <name>Директор</name>
+  </position>
+  <position>
+    <positionid id="2">2</positionid>
+    <name>Менеджер</name>
+  </position>
+  <position>
+    <positionid id="3">3</positionid>
+    <name>Инженер</name>
+  </position>
+  <position>
+    <positionid id="4">4</positionid>
+    <name>Технолог</name>
+  </position>
+  <position>
+    <positionid id="5">5</positionid>
+    <name>IT специалист</name>
+  </position>
+  <position>
+    <positionid id="6">6</positionid>
+    <name>Рабочий</name>
+  </position>
+</positions>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<branches>
+  <branch>
+    <branchid>1</branchid>
+    <name>Филиал 1</name>
+  </branch>
+  <branch>
+    <branchid>2</branchid>
+    <name>Филиал 2</name>
+  </branch>
+  <branch>
+    <branchid>3</branchid>
+    <name>Филиал 3</name>
+  </branch>
+</branches>

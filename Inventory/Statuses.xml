@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<statuses>
+  <status>
+    <statusid>1</statusid>
+    <name>Принят на работу</name>
+  </status>
+  <status>
+    <statusid>2</statusid>
+    <name>Уволен</name>
+  </status>
+  <status>
+    <statusid>3</statusid>
+    <name>Декретный отпуск</name>
+  </status>
+  <status>
+    <statusid>4</statusid>
+    <name>Больничный</name>
+  </status>
+  <status>
+    <statusid>5</statusid>
+    <name>Отпуск</name>
+  </status>
+  <status>
+    <statusid>6</statusid>
+    <name>Командировка</name>
+  </status>
+</statuses>
